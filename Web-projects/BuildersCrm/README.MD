@@ -119,5 +119,7 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
 Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
 
+🔗 GitHub: techsivasham
+
 Expertise in building scalable CRM systems, e-commerce analytics, and inventory management software. I focus on writing clean, maintainable code that solves real-world business problems.
 
