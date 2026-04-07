@@ -67,8 +67,6 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 
 
 
----
-
 ## 📊 Business Logic Highlights
 
 * Tracks **complete site expenses**
