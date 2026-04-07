@@ -111,11 +111,11 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 ✅ Completed and actively maintained for learning and enhancement
 
 
+---
 
 ## 👤 About the Developer
 
-**Siva**  
-Full Stack Developer  
+**Siva**   |   **Full Stack Developer**  
 React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
 Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
 
