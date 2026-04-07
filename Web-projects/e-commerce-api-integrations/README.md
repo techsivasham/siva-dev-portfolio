@@ -1,125 +1,159 @@
-# 🏗️ BuilderCRM (Construction Management System)
+# 🔌 eCommerce API Integrations (Multi-Platform Integration System)
 
-A full-stack construction management system designed to handle site operations, workforce management, vendor coordination, and financial transactions efficiently.
+A multi-platform e-commerce automation system designed to streamline product management, pricing updates, inventory synchronization, and profit analysis across major marketplaces such as Amazon, eBay, and Walmart.
 
 ---
 
 ## 🔧 Tech Stack
 
-* **Frontend:** React.js (Vite)
-* **Backend:** Node.js (Express)
-* **Database:** MySQL
-* **Other:** REST APIs, JWT Authentication
+**Frontend:** Next.js , VB.NET
+**Backend:** Node.js, PHP,
+**Database:** MySQL, SQL Server
+**Integration:** REST APIs, JSON, Webhooks
+
+---
+
+## 🌐 Marketplace Integrations
+
+* Amazon
+* eBay
+* Walmart
+* Bonanza
+
+---
+
+## 📦 Supplier Integrations
+
+* Synnex
+* Ingram Micro
 
 ---
 
 ## ✨ Key Features
 
-* 🏢 Site Management
-* 👷 Employee & Workforce Management
-* 🧾 Vendor & Supplier Management
-* 📦 Material Purchase Tracking
-* 💰 Payment & Expense Management
-* 📊 Site Estimation & Cost Tracking
-* 📅 Attendance Management (Employee & Vendor)
+* 🔄 Multi-platform Product Listing Sync
+* 📦 Real-time Inventory Synchronization
+* 🛒 Automated Order Fetching & Processing
+* 🚚 Dropshipping Workflow Automation
+* 🔁 Unified Data Normalization Layer
+* ⚙️ Robust API Integration with Error Handling
+* 📊 Centralized Data Management
 
 ---
 
-## 📸 Screenshots
+## 🔄 System Architecture
 
-> Add your images inside the `assets/` folder
-
-![Dashboard](assets/dashboard.png)
-![Site Master](assets/site-master.png)
-![Material Purchase](assets/material-purchase.png)
+Marketplace APIs / Supplier APIs
+→ Integration Layer (Node.js / PHP / VB.NET)
+→ Data Processing & Mapping
+→ Database (MySQL / SQL Server)
+→ Dashboard / Reports
 
 ---
 
 ## 🧩 Core Modules
 
-### 📁 Master Data Management
+### 📦 Product Management
 
-* Site Master
-* Employee Type Master
-* Employee Master
-* Vendor Master
-* Supplier Master
-* Item Master
+* Sync and manage product listings across platforms
+* SKU / ASIN mapping and consistency
 
 ---
 
-### 🔄 Transaction Management
+### 📊 Inventory Management
 
-* Employee Attendance
-* Vendor Attendance
-* Contract Work Tracking
-* Material Purchases
-* Supplier Payments
-* Site Estimation
-* Wages Payment
-* Miscellaneous Expenses
+* Fetch stock from suppliers
+* Push updates to marketplaces
 
 ---
 
-## 🔄 Application Flow
+### 🛒 Order Management
 
-User → React Frontend → Node.js API → MySQL Database → Process → UI Update
+* Retrieve orders from multiple platforms
+* Process dropshipping workflow
+* Track order lifecycle
 
+---
 
+### 🔁 Data Normalization Engine
+
+* Standardize multiple API response formats
+* Maintain consistent internal data structure
+
+---
+
+### ⚙️ API Integration Engine
+
+* Authentication handling (API keys, tokens)
+* Rate limit management and retry logic
+* Error logging and monitoring
+
+---
+
+## ⚙️ Database Design (Overview)
+
+* `products` → SKU / ASIN mapping
+* `inventory` → Stock levels
+* `orders` → Order lifecycle tracking
+* `suppliers` → Supplier data
+* `logs` → API activity and error logs
 
 ---
 
 ## 📊 Business Logic Highlights
 
-* Tracks **complete site expenses**
-* Manages **labor + vendor coordination**
-* Maintains **purchase and payment lifecycle**
-* Supports **cost estimation vs actual tracking**
+* Centralized SKU-based product mapping
+* Automated inventory updates from suppliers
+* Order routing for dropshipping workflows
+* Cross-platform data synchronization
 
 ---
 
 ## 🧠 Challenges Solved
 
-* Handling multiple relational modules (site, vendor, employee)
-* Managing real-time financial transactions
-* Designing scalable database structure
-* Optimizing queries for reports and tracking
+* Handling inconsistent API formats across platforms
+* Managing API rate limits and pagination
+* Synchronizing inventory across multiple systems
+* Ensuring data accuracy in automated workflows
 
 ---
 
 ## 🚀 Highlights
 
-* Built a **real-world construction ERP-like system**
-* Implemented **modular architecture (Master + Transactions)**
-* Designed **scalable backend APIs**
-* Ensured clean UI for complex workflows
+* Built a **multi-platform integration system**
+* Implemented **supplier-driven inventory automation**
+* Designed scalable **API architecture**
+* Enabled efficient **dropshipping operations**
 
 ---
 
-🔒 Confidentiality Notice
+## 🔒 Confidentiality Notice
+
 * The source code for this project is private.
+
 * However, I am happy to discuss the following aspects in detail:
 
-* Database Schema Design & Normalization.
-* API Design Patterns and Middleware implementation.
-* Frontend State Management strategies for complex CRUD operations.
+* Database Schema Design & Normalization
 
----
+* API Design Patterns and Middleware Implementation
 
-## 📌 Project Status
-
-✅ Completed and actively maintained for learning and enhancement
-
+* Frontend State Management for complex CRUD operations
 
 ---
 
 ## 👤 About the Developer
 
-**Siva**   |   **Full Stack Developer**  
+**Siva**   |   **Full Stack Developer**
 
-React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
-Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
+React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#
+Tailwind CSS • Bootstrap • REST API Integration • Web Scraping
 
-Expertise in building scalable CRM systems, e-commerce analytics, and inventory management software. I focus on writing clean, maintainable code that solves real-world business problems.
+Expertise in building scalable CRM systems, eCommerce analytics platforms, and inventory management software. Focused on clean, maintainable code and real-world problem solving.
 
 🔗 GitHub: https://github.com/techsivasham
+
+---
+
+## 📌 Project Status
+
+✅ Completed and actively maintained for continuous improvement
