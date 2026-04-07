@@ -106,3 +106,17 @@ I can explain the architecture, database schema, and workflows
 ## 📌 Project Status
 
 ✅ Completed and actively maintained for learning and enhancement
+
+
+## 👤 Author
+
+**Siva**  
+Full Stack Developer  
+React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
+Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
+
+Experienced in building CRM systems, eCommerce analytics platforms, billing & inventory software, and API integrations.
+
+Source code is private. I can explain architecture, database design, and implementation during an interview.
+
+
