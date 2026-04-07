@@ -67,6 +67,8 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 
 
 
+---
+
 ## 📊 Business Logic Highlights
 
 * Tracks **complete site expenses**
@@ -94,10 +96,13 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 
 ---
 
-## 🔒 Source Code
+🔒 Confidentiality Notice
+* The source code for this project is private.
+* However, I am happy to discuss the following aspects in detail:
 
-This project is private.
-I can explain the architecture, database schema, and workflows 
+* Database Schema Design & Normalization.
+* API Design Patterns and Middleware implementation.
+* Frontend State Management strategies for complex CRUD operations.
 
 ---
 
@@ -106,15 +111,13 @@ I can explain the architecture, database schema, and workflows
 ✅ Completed and actively maintained for learning and enhancement
 
 
-## 👤 Author
+
+## 👤 About the Developer
 
 **Siva**  
 Full Stack Developer  
 React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
 Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
 
-Experienced in building CRM systems, eCommerce analytics platforms, billing & inventory software, and API integrations.
-
-Source code is private. I can explain architecture, database design, and implementation during an interview.
-
+Expertise in building scalable CRM systems, e-commerce analytics, and inventory management software. I focus on writing clean, maintainable code that solves real-world business problems.
 
