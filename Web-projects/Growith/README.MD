@@ -27,11 +27,17 @@ A full-stack analytics platform designed to track, analyze, and optimize eCommer
 
 ## 📸 Screenshots
 
-> Add your images inside the `assets/` folder
+| Main Demo | Dashboard |
+|:---------:|:---------:|
+| ![Main Demo](assets/1_Main_Demo.png) | ![Dashboard](assets/2_dashboard.jpeg) |
 
-![Dashboard](assets/dashboard.png)
-![Profit Report](assets/profit-report.png)
-![Upload Screen](assets/upload.png)
+| Search | Inventory |
+|:------:|:---------:|
+| ![Search](assets/3_Search.jpg) | ![Inventory](assets/4_inventory.png) |
+
+| Sales Orders | Buy Box |
+|:------------:|:-------:|
+| ![Sales Orders](assets/5_Salesorders.jpeg) | ![Buy Box](assets/6_buybox.jpeg) |
 
 ---
 
@@ -120,13 +126,30 @@ Marketplace APIs → Node.js Backend → Data Processing → MySQL → Dashboard
 
 ---
 
-## 🔒 Source Code
+🔒 Confidentiality Notice
+* The source code for this project is private.
+* However, I am happy to discuss the following aspects in detail:
 
-This project is private.
-I can explain the architecture, API integrations, and profit calculation logic during an interview.
+* Database Schema Design & Normalization.
+* API Design Patterns and Middleware implementation.
+* Frontend State Management strategies for complex CRUD operations.
 
 ---
 
 ## 📌 Project Status
 
-✅ Completed and continuously improving with new analytics features
+✅ Completed and actively maintained for learning and enhancement
+
+
+---
+
+## 👤 About the Developer
+
+**Siva**   |   **Full Stack Developer**  
+
+React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#  
+Tailwind CSS • Bootstrap • REST API Integration • Web Scraping  
+
+Expertise in building scalable CRM systems, e-commerce analytics, and inventory management software. I focus on writing clean, maintainable code that solves real-world business problems.
+
+🔗 GitHub: https://github.com/techsivasham

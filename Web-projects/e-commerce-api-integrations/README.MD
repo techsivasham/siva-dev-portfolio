@@ -27,21 +27,11 @@ A full-stack construction management system designed to handle site operations, 
 
 ## 📸 Screenshots
 
-| Dashboard | Users |
-|:---------:|:-----:|
-| ![Dashboard](assets/1Dashboard.jpg) | ![Users](assets/2_1_users.jpg) |
+> Add your images inside the `assets/` folder
 
-| Permission Setup | Site Master |
-|:----------------:|:-----------:|
-| ![Permission Setup](assets/2_2_PermissionSetup.jpg) | ![Site Master](assets/2_3_SiteMaster.jpg) |
-
-| Employee Registration | Supplier Master |
-|:--------------------:|:---------------:|
-| ![Employee Registration](assets/3EmployeeRegistration.jpg) | ![Supplier Master](assets/4SupplierMaster.jpg) |
-
-| Item Master | Material Purchase |
-|:-----------:|:-----------------:|
-| ![Item Master](assets/5ItemMaster.jpg) | ![Material Purchase](assets/6MaterialPurchase.jpg) |
+![Dashboard](assets/dashboard.png)
+![Site Master](assets/site-master.png)
+![Material Purchase](assets/material-purchase.png)
 
 ---
 

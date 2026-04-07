@@ -25,9 +25,17 @@ A full-stack CRM application designed to manage student leads, track their progr
 
 ## 📸 Screenshots
 
-> Add your images inside the `assets/` folder
+| Register | Login |
+|:--------:|:-----:|
+| ![Register](assets/1Register.png) | ![Login](assets/2Login.png) |
 
+| Student Lead Report | Student Registration Form |
+|:-------------------:|:-------------------------:|
+| ![Student Lead Report](assets/2StudLeadRep.png) | ![Student Registration Form](assets/3StudRegFrm.png) |
 
+| Student Lead | Client Lead |
+|:------------:|:-----------:|
+| ![Student Lead](assets/4StudentLead.png) | ![Client Lead](assets/5ClientLead.png) |
 
 ### 📌 Lead Management
 
@@ -97,14 +105,35 @@ User → React Frontend → Node.js API → MySQL Database → Process → UI Up
 * Implemented **advanced filtering + reporting UI**
 * Developed **dynamic table controls (toggle columns)**
 * Integrated **Excel & PDF export features**
+---
 
+## 🔒 Confidentiality Notice
 
-## 🔒 Source Code
+* The source code for this project is private.
 
-This project is private.
-I can explain the filtering logic, database structure, and export implementation during an interview.
+* However, I am happy to discuss the following aspects in detail:
 
+* Database Schema Design & Normalization
+
+* API Design Patterns and Middleware Implementation
+
+* Frontend State Management for complex CRUD operations
+
+---
+
+## 👤 About the Developer
+
+**Siva**   |   **Full Stack Developer**
+
+React.js • Next.js • Node.js • Express.js • MySQL • SQL Server • VB.NET • C#
+Tailwind CSS • Bootstrap • REST API Integration • Web Scraping
+
+Expertise in building scalable CRM systems, eCommerce analytics platforms, and inventory management software. Focused on clean, maintainable code and real-world problem solving.
+
+🔗 GitHub: https://github.com/techsivasham
+
+---
 
 ## 📌 Project Status
 
-✅ Completed and actively enhanced with new reporting features
+✅ Completed and actively maintained for continuous improvement
