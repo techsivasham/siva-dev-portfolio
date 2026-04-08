@@ -93,7 +93,7 @@ A Windows-based billing and inventory management system built using VB.NET, desi
 * Role-based Access Control
 * Password Management
 * Account Year Management
-* Backup & Restore
+* Auto Backup & Restore
 
 ---
 
@@ -129,8 +129,8 @@ User → Windows Forms UI → Business Logic → Database → Process → UI Upd
 * Designed **inventory + finance integrated system**
 * Developed **multi-user secure desktop application**
 
-
 ----
+
 
 ## 🔒 Confidentiality Notice
 
